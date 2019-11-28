@@ -1,0 +1,12 @@
+At present, truYumOnline application is of type web application which is there in the Solution. Hence we request you to
+ 
+1.       Create a Class Library project – TruYumLibrary
+2.       Create the methods used for C# in TruYumLibrary
+3.       Create a Console application project – TruYumConsole
+4.       Reference the TruYumLibrary project in TruYumConsole application
+5.       Invoke the methods of the Class Library from the TruYumConsole application
+6.       For C# testing, please set up the TruYumConsole application as the startup project
+ 
+Post completion of above steps:
+7.       Ensure to commit Class Library project – TruYumLibrary to GIT repository.
+8.       Ensure to commit Console application project – TruYumConsole to GIT repository.
